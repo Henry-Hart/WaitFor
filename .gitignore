@@ -1,0 +1,9 @@
+#For testing
+WaitFor/x64/
+x64/Debug/
+#Visual Studio stuff
+.vs
+*.ilk
+*.pdb
+*.ipdb
+*.iobj
